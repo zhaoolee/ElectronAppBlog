@@ -1,11 +1,11 @@
 # ElectronAppBlog
-图文并茂的Electron应用博客连载；
+图文并茂的Electron应用博客连载；连载地址: https://github.com/zhaoolee/ElectronAppBlog/wiki
 
 Electron 可以将网页封装为可运行在Windows, macOS, Linux的桌面端应用；
 
 ## Electron有什么应用场景？
 
-- 如果你用Web完成了一个聊天室，经过Electron封装，聊天室可以拥有系统托盘图标，进行新消息数量提醒，系统消息弹窗，macOS可通过弹窗直接回复消息，用户体验更佳！
+- 如果你用Web完成了一个聊天室，经过Electron封装，聊天室可以拥有系统托盘图标，新消息数量提醒，系统消息弹窗，macOS可通过弹窗直接回复消息，体验极佳！
 
 - 如果你使用Node.js开发了一款照片处理脚本，经过Electron封装，可以为脚本增加基于Web的图形化界面，把一个极客脚本，变成适合大众使用的软件消费品~
 
@@ -22,4 +22,25 @@ Electron 可以将网页封装为可运行在Windows, macOS, Linux的桌面端�
 - Electron可以轻易实现很多实用的功能（开机自启，自动更新，托盘图标），但网上几乎找不到完整的开源代码，zhaoolee想通过附带源码的Electron博客连载，帮到更多开发者。
 
 - zhaoolee写了很多脚本，缺少界面，想通过这套博客连载，为各种脚本添加界面，并推广这些带界面的开源程序；编程初学者，也可以借鉴这些可以开源程序，完善自己的脚本作品。
+
+
+## 图文并茂的Electron应用博客连载，Github完全开源
+
+- 获取所有博客文章最新版
+
+```
+git clone --depth=1 https://github.com/zhaoolee/ElectronAppBlog.wiki.git
+```
+
+- 获取所有示例代码最新版
+
+```
+git clone --depth=1 https://github.com/zhaoolee/ElectronAppBlog.git
+```
+
+
+## 联系作者
+
+Mail: [zhaoolee@gmail.com](mailto:zhaoolee@gmail.com)
+
 
